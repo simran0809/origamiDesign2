@@ -1,0 +1,101 @@
+.head{
+      
+    background-color:skyblue;
+    border:solid;
+     }
+  
+     .note{
+       background-color: rgb(47, 235, 63);
+       
+     }
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#800080;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#800080;
+  }
+  
+  .cicada {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#000000;
+  }
+  
+  .panda {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#800080;
+  }
+  
+  .pigeon {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#000000;
+  }
+  
+  .teddy {
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#000000;
+  }
+
+  .youtube{
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#000000;
+  }
+
+  .instagram{
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#800080;
+  }

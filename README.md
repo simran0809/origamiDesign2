@@ -1,5 +1,1 @@
-# origamiDesign2
-about origamis
-
-BY 
-   SIMRAN AHIRWAR 
+# PRO-C50-ORIGAMI-WEBSITE-DESIGN-PART-2
